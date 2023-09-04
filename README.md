@@ -6,6 +6,12 @@
 
 [How to save user settings using UserDefaults](https://www.hackingwithswift.com/read/12/2/reading-and-writing-basics-userdefaults) <br><br>
 
+[NSUserDefaults example in Swift](https://www.appsdeveloperblog.com/nsuserdefaults-example-in-swift/) <br><br>
+
+[Setting default values for NSUserDefaults](https://sarunw.com/posts/setting-default-value-for-nsuserdefaults/) <br><br>
+
+
+
 #
 ### When I store data:<br>
 
