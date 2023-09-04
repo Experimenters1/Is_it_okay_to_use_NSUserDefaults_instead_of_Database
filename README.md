@@ -9,9 +9,9 @@
 #
 ### When I store data:<br>
 
-1.User preference data: Settings,Accounts... - **NSUserDefaults** <br>
-2.Security data：passwords - KeyChain
-3.Small amount of data that do not need complex query - **Plist,Archiver** <br>
-4.Big amount of data which need Structured Query － **Coredata/SQLite(FMDB)**. <br>
+1.User preference data: Settings,Accounts... - **NSUserDefaults** <br><br>
+2.Security data：passwords - **KeyChain** <br><br>
+3.Small amount of data that do not need complex query - **Plist,Archiver** <br><br>
+4.Big amount of data which need Structured Query － **Coredata/SQLite(FMDB)**. <br><br>
 
 
