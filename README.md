@@ -14,7 +14,7 @@
 
 #
 ### When I store data:<br>
-
+#
 1.User preference data: Settings,Accounts... - **NSUserDefaults** <br><br>
 2.Security data：passwords - **KeyChain** <br><br>
 3.Small amount of data that do not need complex query - **Plist,Archiver** <br><br>
